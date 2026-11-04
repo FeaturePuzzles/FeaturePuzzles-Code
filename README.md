@@ -16,7 +16,7 @@
 
 [**Project page**](https://featurepuzzles.github.io/) ·
 [**Paper**](https://openreview.net/forum?id=C9iJlwJc0W) ·
-[**Video (1:30)**](https://featurepuzzles.github.io/media/promo/teaser_90s.mp4)
+[**Video (2:30)**](https://featurepuzzles.github.io/media/promo/teaser_150s.mp4)
 
 </div>
 
@@ -25,11 +25,11 @@
 
 ## Video
 
-<a href="https://featurepuzzles.github.io/media/promo/teaser_90s.mp4">
-  <img src="https://featurepuzzles.github.io/media/promo/poster.jpg" alt="Feature Puzzles, 1:30 video" width="100%">
+<a href="https://featurepuzzles.github.io/media/promo/teaser_150s.mp4">
+  <img src="https://featurepuzzles.github.io/media/promo/poster.jpg" alt="Feature Puzzles, 2:30 video" width="100%">
 </a>
 
-<p align="center"><a href="https://featurepuzzles.github.io/media/promo/teaser_90s.mp4">▶ Watch the 1:30 video</a> &nbsp;·&nbsp; <a href="https://featurepuzzles.github.io/#video">full 5:56 version on the project page</a></p>
+<p align="center"><a href="https://featurepuzzles.github.io/media/promo/teaser_150s.mp4">▶ Watch the 2:30 video</a> &nbsp;·&nbsp; <a href="https://featurepuzzles.github.io/#video">full 5:56 version on the project page</a></p>
 
 ## What is Feature Puzzles?
 
